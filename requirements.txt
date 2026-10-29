@@ -1,0 +1,4 @@
+# Requires Python 3.12 or newer (the code uses f-strings with nested quotes, allowed since 3.12).
+numpy        # river_mdp.py
+matplotlib   # palacio.py (heatmaps)
+seaborn      # palacio.py (heatmaps)
